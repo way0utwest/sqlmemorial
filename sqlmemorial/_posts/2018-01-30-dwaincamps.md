@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "In Memory of Dwain Camps"
+date:   2015-09-01 00:00:00
+categories: memorial
+---
+# Mr. Dwain Camps
+![Dwain Camps <](/assets/images/dwaincamps.jpg)
+
+Dwain Camps was a popular author at SQLServerCentral and Simple Talk. His blog remains alive at [https://dwaincsql.com/](https://dwaincsql.com/).
+
+## Thoughts and Memories from Freinds
+
+__Steve Jones__
+I never had the opportunity to meet Dwain, but we corresponded many times across years and I was always impressed and amazed by his knowledge.
