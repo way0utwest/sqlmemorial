@@ -2,30 +2,22 @@ trigger:
 - main
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'ubuntu-16.04'
 
 steps:
-- task: UseRubyVersion@0
+- task: Docker@0
+  displayName: 'Run jekyll'
   inputs:
-    versionSpec: '>= 2.5'
-
-- script: |
-    gem install jekyll bundler
-    bundle install --retry=3 --jobs=4
-  displayName: 'bundle install'
- 
-- script: |
-    bundle install
-    jekyll build
-  displayName: 'jekyll'
-
-- task: CopyFiles@2
-  displayName: 'Copy Files to: $(Build.ArtifactStagingDirectory)'
-  inputs:
-    SourceFolder: '_site'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-
+    containerRegistryType: 'Container Registry'
+    action: 'Run an image'
+    imageName: 'jekyll/builder:3.8'
+    volumes: |
+      $(build.SourcesDirectory)/sqlmemorial:/srv/jekyll
+      $(build.binariesDirectory):/srv/jekyll/_site
+    containerCommand: 'jekyll build --future'
+    detached: false
 - task: PublishBuildArtifacts@1
   inputs:
-    pathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    artifactName: site
+    artifactName: 'drop'
+    pathtoPublish: '$(build.binariesDirectory)'
+    publishLocation: 'Container'
