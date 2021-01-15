@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is dedicated to the memory of our SQLFamily members that have passed away.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sqlfamily
+twitter_username: sqlmemorial
 github_username:  way0utwest
 
 # Build settings
