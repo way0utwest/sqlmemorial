@@ -21,9 +21,12 @@ Gareth was a devout Christian with a strong life long relationship with Jesus Ch
 
 ## Thoughts and Memories from Freinds
 
+__Andy Warren__ : [Farewell, Gareth Swanepoel](https://sqlandy.com/2021/01/14/farewell-gareth-swanepoel/)
+
+__Brent Ozar__ : [We Lost Gareth Swanepoel](https://www.brentozar.com/archive/2021/01/we-lost-gareth-swanepoel/)
+
 __Steve Jones__
 I have many memories of Gareth at events all over the US. It seems that I would often be in a convention center, and I'd heard his voice, or see him walking up. He was always a sight to behold, wearing something that stood our amongst the crowd. Always a smile, always joyful in a way that was infectious. I have a few pictures in my own post: [RIP Gareth Swanepoel and GoFundMe](http://voiceofthedba.com/2021/01/14/rip-gareth-swanepoel-and-gofundme/)
-
 
 __TJay Belt__
 As Posted on Twitter.
@@ -31,4 +34,9 @@ Hey friend. #sqlfamily. Family.
 You were one of a kind. A smile always at the ready. A kind word on your tongue. A presence in any space one wanted to spend time with. You will be missed. And leave a hole in our collective hearts.
 ![GarethMakesTJayLaugh <](/assets/images/GarethMakesTJayLaugh.jpg)
 
+__Kenneth Fisher__ : [“They need help, we must help.” #forGarethSwan](https://sqlstudies.com/2021/01/14/they-need-help-we-must-help-forgarethswan/)
+
+## Contributions to the SQL Community
+
+[Gareth at LinkedIn](https://www.linkedin.com/in/garethswan/?locale=de_DE)
 
