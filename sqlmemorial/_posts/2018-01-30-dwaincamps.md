@@ -17,5 +17,7 @@ I never had the opportunity to meet Dwain, but we corresponded many times across
 ## Contributions to the SQL Community
 
 [Dwain Camps Blog](https://dwaincsql.com/)
+
 [Dwain Camp Author page at SQLServerCentral](https://www.sqlservercentral.com/author/dwainc)
+
 [Dwain Camp Author page at Simple Talk](https://www.red-gate.com/simple-talk/author/dwain-camps/)
