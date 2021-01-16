@@ -18,3 +18,7 @@ __Andy Warren__ : [FAREWELL, ROBERT DAVIS](https://sqlandy.com/2018/04/04/farewe
 __Kendra Little__ : [Remembering Robert Davis, aka @SQLSoldier](https://littlekendra.com/2018/04/03/remembering-robert-davis-aka-sqlsoldier/)
 
 __Steve Jones__ : [In Memory of Robert](https://voiceofthedba.com/2018/04/05/in-memory-of-robert/)
+
+## Contributions to the Community
+
+[Robert's blog](https://sqlstudies.com/)
