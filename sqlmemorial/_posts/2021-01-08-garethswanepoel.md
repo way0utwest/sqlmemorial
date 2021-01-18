@@ -33,7 +33,9 @@ As Posted on Twitter.
 Hey friend. #sqlfamily. Family.
 You were one of a kind. A smile always at the ready. A kind word on your tongue. A presence in any space one wanted to spend time with. You will be missed. And leave a hole in our collective hearts.
 
-<img alt="GarethMakesTJayLaugh" src="/assets/images/GarethMakesTJayLaugh.jpg" width="250" height="400" )
+<img alt="Naomi Williams" src="/assets/images/naomiwilliams.jpg" align="right" height="300" width="280">
+
+<img src="/assets/images/GarethMakesTJayLaugh.jpg" alt="Gareth Makes TJay Laugh" height="400" width="300" )
 
 __Kenneth Fisher__ : [“They need help, we must help.” #forGarethSwan](https://sqlstudies.com/2021/01/14/they-need-help-we-must-help-forgarethswan/)
 
