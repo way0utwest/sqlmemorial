@@ -4,8 +4,8 @@ title:  "In Memory of Naomi Williams"
 date:   2018-10-30 00:00:00
 categories: memorial
 ---
-# Mr. Dwain Camps
-![Naomi Williams <](/assets/images/naomiwilliams.jpg)
+# Ms. Naomi Williams
+<img alt="Naomi Williams" src="/assets/images/naomiwilliams.jpg" align="right" height="300" width="280">
 
 Naomi Williams(aka [@naomithesqldba](https://twitter.com/naomithesqldba?lang=en)) was a bright star, friend and mentor to many. Naomi was a fiercely loyal person and would help anyone that she could.
 
