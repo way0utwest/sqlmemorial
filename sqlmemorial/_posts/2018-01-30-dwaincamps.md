@@ -9,12 +9,14 @@ categories: memorial
 
 Dwain Camps was a popular author at SQLServerCentral and Simple Talk. His blog remains alive at [https://dwaincsql.com/](https://dwaincsql.com/).
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 __Steve Jones__
 I never had the opportunity to meet Dwain, but we corresponded many times across years and I was always impressed and amazed by his knowledge.
 
 ## Contributions to the SQL Community
+
+[Dwain Camps @dwaincsql](https://twitter.com/dwaincsql)
 
 [Dwain Camps Blog](https://dwaincsql.com/)
 

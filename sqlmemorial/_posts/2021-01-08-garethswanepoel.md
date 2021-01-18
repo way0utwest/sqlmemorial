@@ -32,3 +32,5 @@ __Kenneth Fisher__ : [“They need help, we must help.” #forGarethSwan](https:
 ## Contributions to the SQL Community
 
 [Gareth at LinkedIn](https://www.linkedin.com/in/garethswan/?locale=de_DE)
+
+[Gaweth Swanepoel @garethswan](https://twitter.com/garethswan)

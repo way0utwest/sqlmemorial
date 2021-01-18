@@ -11,7 +11,7 @@ Robery Davis was an incredible member of our communuity, always willing to share
 
 He is missed.
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 __Andy Warren__ : [FAREWELL, ROBERT DAVIS](https://sqlandy.com/2018/04/04/farewell-robert-davis/)
 
@@ -22,3 +22,5 @@ __Steve Jones__ : [In Memory of Robert](https://voiceofthedba.com/2018/04/05/in-
 ## Contributions to the Community
 
 [Robert's blog](https://sqlstudies.com/)
+
+[Robert Davis @sqlsoldier](https://twitter.com/sqlsoldier)
