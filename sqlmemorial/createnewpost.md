@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Creating a New Memorial 
-permalink: /createnewpost/
 ---
 # Creating a New Memorial Post
 
