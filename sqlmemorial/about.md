@@ -14,4 +14,6 @@ If you wish to add a thought, memory, or picture of someone listed, please feel 
 
 This site was set up by Steve Jones [@way0utwest](https://www.twitter.com/way0utwest). If you have any feedback, comments, or suggestions, please contact him.
 
+Thanks for Todd Kleinhans for his [#sqlmemorial work and videos](https://www.youtube.com/watch?v=K4EhnbnsaS4&t=27s) on Youtube. I also want to thank Jen MCown for the tributes in her [SQL Yearbook](http://www.midnightdba.com/Jen/sql-yearbook/).
+
 The site is powered by Jekyll. You can find the source code for Jekyll at GitHub: [jekyll](https://github.com/jekyll/jekyll)
