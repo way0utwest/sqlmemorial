@@ -21,6 +21,6 @@ __Steve Jones__ : [In Memory of Robert](https://voiceofthedba.com/2018/04/05/in-
 
 ## Contributions to the Community
 
-[Robert's blog](https://sqlstudies.com/)
+[Robert's blog](http://sqlsoldier.com/)
 
 [Robert Davis @sqlsoldier](https://twitter.com/sqlsoldier)
