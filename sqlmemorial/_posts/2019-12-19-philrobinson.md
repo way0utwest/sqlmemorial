@@ -14,6 +14,7 @@ Phil was active in the community as a SQL Saturday - San Diego organizer and ser
 ## Thoughts and Memories from Freinds
 
 __Steve Jones__
+
 I was fortunate enough to run into Phil at many events on the West Coast of the United States. A generous man, always looking to help others and give back. We had quick conversations over a cup of coffee or in a hallway, sometimes technical, sometimes community based, and I miss his generosity and warm smile.
 
 ## Contributions to the SQL Community
@@ -21,3 +22,9 @@ I was fortunate enough to run into Phil at many events on the West Coast of the 
 [Philip Robinson Author page at SQLServerCentral](https://www.sqlservercentral.com/author/Philip-Robinson-NWDBA)
 
 Phil Robinson at [LinkedIn](https://www.linkedin.com/in/sqldbdev/)
+
+## Images and Pictures
+
+Phil at a PASS Summit
+![Phil at a PASS Summit on the right](/assets/images/philrobinson2.png)
+
