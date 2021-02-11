@@ -21,3 +21,9 @@ I had the honor of knowing Mike from SQLServerCentral as a poster and author ove
 [Mike Vessey LinkedIn](https://www.linkedin.com/in/mike-vessey-23889a14/?originalSubdomain=uk)
 
 [Mike Vessey author at SQLServerCentral](https://www.sqlservercentral.com/author/mvdba)
+
+## Pictures and Images
+
+![Mike at SQL in the City 2019](/assets/images/mikevessey2.png)
+
+![Mike at SQL in the City 2019](/assets/images/mikevessey3.png)
