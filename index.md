@@ -6,6 +6,4 @@ layout: home
 title: The SQL Memorial
 list_title: Memories
 ---
-# Welcome to the SQL Memorial
-
 This site was created to remember those that we have lost in the SQLFamily. Their memories and contributions are captured here for all to view.
