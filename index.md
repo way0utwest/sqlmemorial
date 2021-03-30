@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: The SQL Memorial
+list_title: Memories
 ---
 # Welcome to the SQL Memorial
 
