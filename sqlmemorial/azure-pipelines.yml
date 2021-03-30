@@ -1,0 +1,23 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-16.04'
+
+steps:
+- task: Docker@0
+  displayName: 'Run jekyll'
+  inputs:
+    containerRegistryType: 'Container Registry'
+    action: 'Run an image'
+    imageName: 'jekyll/builder:3.8'
+    volumes: |
+      $(build.SourcesDirectory)/sqlmemorial:/srv/jekyll
+      $(build.binariesDirectory):/srv/jekyll/_site
+    containerCommand: 'jekyll build --future'
+    detached: false
+- task: PublishBuildArtifacts@1
+  inputs:
+    artifactName: 'drop'
+    pathtoPublish: '$(build.binariesDirectory)'
+    publishLocation: 'Container'
