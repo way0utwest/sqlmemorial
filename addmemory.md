@@ -6,7 +6,7 @@ title: Add a Memory
 
 If you wish to add a statement, memory, or note to this site, please feel free to do so. You can contact the maintainer with information, or you can submit a pull request to the [repository](https://github.com/way0utwest/sqlmemorial) yourself.
 
-If you have a post or note elsewhere that expresses your feelings, feel free to add your name in Bold to the **Thoughts and Memories from Freinds** section and then include a link to your post.
+If you have a post or note elsewhere that expresses your feelings, feel free to add your name in Bold to the **Thoughts and Memories from Friends** section and then include a link to your post.
 
 If you want to add inline text, please feel free to do so.
 
