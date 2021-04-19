@@ -8,7 +8,7 @@ categories: memorial
 ![Jean-Pierre de Jong <](/assets/images/jeanpierredejong.jpg)
 
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 
 ## Contributions to the SQL Community

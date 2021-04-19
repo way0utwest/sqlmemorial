@@ -23,7 +23,7 @@ Thank you.
 
 If you are interested Wolf also shared [this recording](https://drive.google.com/file/d/1n8pEvZUkKJnV9W4paASLvjZzTKorRuW9/view) of Namoi singing.
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 __Steve Jones__
 I didn't know Naomi well, but I met her when she organized the first SQL Saturday in San Antonio. She was full of energy and excitement, working to ensure that everyone enjoyed the evening before and the event that day. I was caught up in her joy and it made an amazing weekend in the city for me. A lasting impression.
