@@ -7,7 +7,7 @@ categories: memorial
 # Mr. Ahmad Osama
 ![Ahmad Osama <](/assets/images/ahmadosama.jpg)
 
-Ahmad Osama was a valued member of the Microsoft Data Platform community in India.
+Ahmad Osama was a valued member of the Microsoft Data Platform community in India and a regular contributor at Data Platform Labs.
 
 ## Thoughts and Memories from Friends
 
