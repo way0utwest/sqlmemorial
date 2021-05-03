@@ -11,7 +11,7 @@ Phil was an independent database developer and BI consultant with more than ten 
 
 Phil was active in the community as a SQL Saturday - San Diego organizer and served as president of the San Diego SQL Business Intelligence User Group.
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 __Steve Jones__
 

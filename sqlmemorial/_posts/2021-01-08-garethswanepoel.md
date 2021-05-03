@@ -19,7 +19,7 @@ Gareth was also a history buff and Civil War re-enactor for the Straw Hats.  Gar
 
 Gareth was a devout Christian with a strong life long relationship with Jesus Christ. He is survived by his mother Joyce; wife Kellie; sisters Kirsty and Tessa; brother Bernard; his son Chris; daughter Lilly and his step children Joshua, James, and Kristen.
 
-## Thoughts and Memories from Freinds
+## Thoughts and Memories from Friends
 
 __Andy Warren__ : [Farewell, Gareth Swanepoel](https://sqlandy.com/2021/01/14/farewell-gareth-swanepoel/)
 
