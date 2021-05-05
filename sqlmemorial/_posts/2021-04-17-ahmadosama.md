@@ -23,7 +23,7 @@ He was an affluent speaker, who actively participated in multiple tech events an
 
 As an avid blogger, he took to the keyboard as the tool of choice to share valuable insights with the community. Having published well over 100 blogs in SQLServerGeeks alone, numerous more in DataPlatformLabs, he has undoubtedly earned the ‘Geek’ badge for himself.
 
-![Ahmad Osama Speaking](/assets/images/ahmadosama2.png)
+![Ahmad Osama Speaking](/assets/images/AhmadOsama2.png)
 
 Having said that, he was known to spend a fair share of time on his Xbox as a means of letting off steam and rejuvenating himself before taking another spin at the real world. 
 
