@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Add a Memory
+permalink: /addmemory/
 ---
 # Adding a Memory
 
