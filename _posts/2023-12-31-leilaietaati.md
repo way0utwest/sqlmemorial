@@ -4,7 +4,7 @@ title:  "In Memory of Leila Etaati"
 date:   2023-12-31 00:00:00 -0000
 categories: memorial
 ---
-# Leila Etaati
+# Leila Etaati (20 Sep 1982 - 31 Dec 2023)
 
 Obituary post from Reza Rad, her husband: [Leila](https://www.linkedin.com/posts/rezarad_leila-passed-away-8-am-today-31st-of-december-activity-7147064245485002752-F5V2?utm_source=share&utm_medium=member_desktop)
 
