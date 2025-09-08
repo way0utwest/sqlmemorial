@@ -6,7 +6,7 @@ categories: memorial
 ---
 # Andrew Clarke (aka Phil Factor) (passed 18 Aug 2025)
 
-![Andrew Clarke](/assets/images/andrewclarke.png)
+![Andrew Clarke](/assets/images/andrewclarke.jpg)
 
 ## Thoughts and Memories from Friends
 
@@ -22,3 +22,4 @@ categories: memorial
 
 [Andrew on X](https://x.com/phil_factor)
 
+[Phil Factor on Github](https://github.com/phil-factor)
