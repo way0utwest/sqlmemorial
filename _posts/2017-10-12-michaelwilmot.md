@@ -7,7 +7,7 @@ categories: memorial
 # Mr. Michael Wilmot
 ![Michael Wilmot <](/assets/images/michaelwilmot.jpg)
 
-Michael James Wilmot, 51, of Littleton, Colorado, died on Thursday, October 12, 2017. He was born in Miami Beach, Florida, on July 9, 1966. He is survived by his wife Deb and their three children Rachel, Joey and Luke, as well as his sister Tiffany Wilmot, nieces Anna and Lizzy LeBleu, and father Michael Wilmot. His Canadian survivors include his uncle Henry Wilmot, his aunt Anna Johnson, and their families. He is preceded in death by his mother, Nancy Wilmot. 
+Michael James Wilmot, 51, of Littleton, Colorado, died on Thursday, October 12, 2017. He was born in Miami Beach, Florida, on July 9, 1966. He is survived by his wife and three children, as well as his sister Tiffany Wilmot, nieces Anna and Lizzy LeBleu, and father Michael Wilmot. His Canadian survivors include his uncle Henry Wilmot, his aunt Anna Johnson, and their families. He is preceded in death by his mother, Nancy Wilmot. 
 
 Although he left us too soon, he lived his life fully and accomplished much. Mike was a midshipman at the US Naval Academy from 1984 through 1988, earning his degree in engineering. He graduated in May of 1988 and accepted a commission as an officer in the US Marine Corps. Mike completed his military service in May of 1994 after serving in Desert Storm, receiving numerous decorations and honors, and obtaining the rank of Captain. 
 
