@@ -40,10 +40,3 @@ A service for Glenn will be announced soon, but please feel free to send me a di
 
 ## Contributions to the SQL Community
 
-[Martin's SQL Bits Profile](https://sqlbits.com/speakers/Martin_Croft)
-
-[Martin at Sessionize](https://sessionize.com/martin-croft/)
-
-[Martin on YouTube](https://www.youtube.com/@MartinCroft?app=desktop)
-
-[Martin on X (formerly Twitter)](https://x.com/martincroft)
