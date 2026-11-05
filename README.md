@@ -5,3 +5,5 @@ This is a project to remember and memorialize those in the SQL Server and Data P
 The idea with this project is to use GitHub Pages and Jekyll to remember people that have been a part of our community. By making this an open source project, with automation, others can contribute to pages, add images, etc. that remember the people that have touched our lives.
 
 The site is located at [sqlmemorial.org](http://www.sqlmemorial.org)
+
+Feel free to fork the repo and submit a PR if you want to add your own updates to an individual.

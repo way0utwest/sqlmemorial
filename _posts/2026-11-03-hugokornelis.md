@@ -15,7 +15,7 @@ Hugo Kornelis was a highly respected figure in the SQL Server community, a perfo
 
 ## Thoughts and Memories from Friends
 
-Hugo was a friend and someone who I always looked forward to spending time with at conferences and events. When I saw his trademark blond streak across the room, I smiled to myself, hoping that I'd have a chance to chat. We talked more about life and family than SQL Server, and I've always hoped that I'd have another opportunity to chat. My [heart is heavy](https://www.sqlservercentral.com/editorials/a-heavy-heart), and I'm saddened that such an wonderful person has left us far too soon.
+Hugo was a friend and someone who I always looked forward to spending time with at conferences and events. When I saw his trademark blond streak across the room, I smiled to myself, hoping that I'd have a chance to chat. We talked more about life and family than SQL Server, and I've always hoped that I'd have another opportunity to chat. My [heart is heavy](https://www.sqlservercentral.com/editorials/a-heavy-heart), and I'm saddened that such an wonderful person has left us far too soon. - Steve Jones
 
 
 ## Contributions to the SQL Community
